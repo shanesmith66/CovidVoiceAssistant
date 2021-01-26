@@ -1,0 +1,6 @@
+requests
+json
+pyttsx3
+speech_recognition
+threading
+time
